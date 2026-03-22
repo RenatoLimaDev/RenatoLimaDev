@@ -56,7 +56,7 @@
 
 <div align="center">
 
-![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenatoLimaDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenatoLimaDev&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoLimaDev&layout=compact&theme=tokyonight&hide_border=true)
 
