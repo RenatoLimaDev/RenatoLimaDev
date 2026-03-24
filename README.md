@@ -12,11 +12,8 @@
 
 ### Sobre mim
 
-- Construo aplicações do zero — da ideia ao deploy
-- Foco em qualidade: testes unitários, E2E e cobertura de código
-- Background militar: disciplina e entrega no prazo
-- Buscando minha primeira oportunidade como Dev Júnior
-
+- Constantemente inventando coisas novas
+  
 ---
 
 ### Stack
