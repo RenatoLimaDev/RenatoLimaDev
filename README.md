@@ -1,6 +1,7 @@
 <div align="center">
 
 # Renato Lima
+
 ### Full Stack Developer · JavaScript · TypeScript · React · Node.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-lima-5b481b361/)
@@ -12,8 +13,14 @@
 
 ### Sobre mim
 
-- Constantemente inventando coisas novas
-  
+Desenvolvedor Full Stack com foco em TypeScript, React e Node.js. Construo aplicações web, desktop e PWAs — do front ao back, com testes e deploy. Fundador da **SEDLABS**, softhouse focada em soluções sob medida.
+
+---
+
+### <img src="docs/SedLabs.svg" height="22" alt="SEDLABS" /> SEDLABS
+
+> Softhouse fundada por mim, focada no desenvolvimento de software personalizado — desde MVPs até sistemas completos para clientes.
+
 ---
 
 ### Stack
@@ -42,10 +49,10 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [EasyMoodle](https://github.com/RenatoLimaDev/EasyMoodle) | Converte arquivos de questões em XML para o Moodle — 92% de cobertura de testes | TS · React · Vitest · Playwright |
-| [TAPGYM](https://github.com/RenatoLimaDev/TAPGYM) | PWA offline para controle de treinos com progressão automática | JS · React · PWA |
-| [TypeFlowApp](https://github.com/RenatoLimaDev/TypeFlowApp) | App desktop de notas flutuantes com Tauri + Rust | TS · React · Tauri · Rust |
-| [RoleMap](https://github.com/RenatoLimaDev/RoleMap) | App colaborativo com votação em tempo real via WebSockets | JS · Node.js · Socket.io · MySQL |
+| <img src="docs/Facin.svg" height="18" alt="Facin" /> [Facin](https://github.com/RenatoLimaDev/Facin) | Converte arquivos `.docx`, `.odt`, `.md` e outros em XML para o Moodle — processamento 100% local, sem upload. 92% de cobertura de testes. | TS · React · Vite · Tailwind · Zustand · Vitest · Playwright |
+| [TAPGYM](https://github.com/RenatoLimaDev/TAPGYM) | PWA offline para controle de treinos com progressão automática de carga, timer de descanso, gráficos de frequência e exportação em PDF. Sem conta, sem backend. | JS · React · PWA · localStorage |
+| [TypeFlowApp](https://github.com/RenatoLimaDev/TypeFlowApp) | App desktop de notas flutuantes com overlay always-on-top, atalhos globais, modo click-through e bundle < 5MB. | TS · React · Tauri · Rust · Zustand |
+| [RoleMap](https://github.com/RenatoLimaDev/RoleMap) | App colaborativo para grupos decidirem onde sair — votação em tempo real via WebSockets, autenticação JWT e salas por código. | JS · Node.js · Socket.io · Express · MySQL · Sequelize |
 
 ---
 
