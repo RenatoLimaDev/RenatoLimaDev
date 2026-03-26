@@ -17,7 +17,7 @@ Desenvolvedor Full Stack com foco em TypeScript, React e Node.js. Construo aplic
 
 ---
 
-### <img src="docs/SedLabs.svg" height="22" alt="SEDLABS" /> SEDLABS
+### <img src="docs/SedLabs.svg" height="160" alt="SEDLABS" align="center" />
 
 > Softhouse fundada por mim, focada no desenvolvimento de software personalizado — desde MVPs até sistemas completos para clientes.
 
