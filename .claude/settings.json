@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "WebFetch(domain:github.com)",
-      "WebSearch"
+      "WebSearch",
+      "Read(//c/Users/Renato Lima/.claude/projects/c--Users-Renato-Lima-Documents-T-I-PerfilGithub-RenatoLimaDev/memory 2>/dev/**)"
     ]
   }
 }
