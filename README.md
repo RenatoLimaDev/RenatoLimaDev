@@ -16,13 +16,10 @@
 Desenvolvedor Full Stack com foco em TypeScript, React e Node.js. Construo aplicações web, desktop e PWAs — do front ao back, com testes e deploy. Fundador da **SEDLABS**, softhouse focada em soluções sob medida.
 
 ---
-
+|:---:|---|
 <div align="center">
 
-<img src="docs/ico-comp.svg" height="72" alt="SEDLABS" />
-
-**Softhouse fundada por mim, focada no desenvolvimento de software personalizado**
-*desde MVPs até sistemas completos para clientes*
+| <img src="docs/ico-comp.svg" height="172" alt="SEDLABS" /> | **Softhouse fundada por mim, focada no desenvolvimento de software personalizado** *desde MVPs até sistemas completos para clientes* |
 
 </div>
 
@@ -52,7 +49,7 @@ Desenvolvedor Full Stack com foco em TypeScript, React e Node.js. Construo aplic
 
 ### Projetos em Destaque
 
-| | Descrição | Stack |
+| App | Descrição | Stack |
 |:---:|---|---|
 | [![Facin](docs/Facin.svg)](https://github.com/RenatoLimaDev/Facin) | Converte arquivos `.docx`, `.odt`, `.md` e outros em XML para o Moodle — processamento 100% local, sem upload. 92% de cobertura de testes. | TS · React · Vite · Tailwind · Zustand · Vitest · Playwright |
 | [![TAPGYM](docs/icon-180.png)](https://github.com/RenatoLimaDev/TAPGYM) | PWA offline para controle de treinos com progressão automática de carga, timer de descanso, gráficos de frequência e exportação em PDF. Sem conta, sem backend. | JS · React · PWA · localStorage |
