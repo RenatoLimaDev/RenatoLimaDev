@@ -49,7 +49,7 @@ Desenvolvedor Full Stack com foco em TypeScript, React e Node.js. Construo aplic
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| <img src="docs/Facin.svg" height="18" alt="Facin" /> [Facin](https://github.com/RenatoLimaDev/Facin) | Converte arquivos `.docx`, `.odt`, `.md` e outros em XML para o Moodle — processamento 100% local, sem upload. 92% de cobertura de testes. | TS · React · Vite · Tailwind · Zustand · Vitest · Playwright |
+| <img src="docs/Facin.svg" height="26" alt="Facin" /> [Facin](https://github.com/RenatoLimaDev/Facin) | Converte arquivos `.docx`, `.odt`, `.md` e outros em XML para o Moodle — processamento 100% local, sem upload. 92% de cobertura de testes. | TS · React · Vite · Tailwind · Zustand · Vitest · Playwright |
 | [TAPGYM](https://github.com/RenatoLimaDev/TAPGYM) | PWA offline para controle de treinos com progressão automática de carga, timer de descanso, gráficos de frequência e exportação em PDF. Sem conta, sem backend. | JS · React · PWA · localStorage |
 | [TypeFlowApp](https://github.com/RenatoLimaDev/TypeFlowApp) | App desktop de notas flutuantes com overlay always-on-top, atalhos globais, modo click-through e bundle < 5MB. | TS · React · Tauri · Rust · Zustand |
 | [RoleMap](https://github.com/RenatoLimaDev/RoleMap) | App colaborativo para grupos decidirem onde sair — votação em tempo real via WebSockets, autenticação JWT e salas por código. | JS · Node.js · Socket.io · Express · MySQL · Sequelize |
