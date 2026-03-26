@@ -25,7 +25,7 @@ Desenvolvedor Full Stack com foco em TypeScript, React e Node.js. Construo aplic
 <br>
 
 
-
+<br>
 SEDLABS — desenvolvimento de software personalizado para clientes,<br>
 do MVP ao produto completo.
 
