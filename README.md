@@ -25,8 +25,8 @@ Desenvolvedor Full Stack com foco em TypeScript, React e Node.js. Construo aplic
 <br>
 
 
-
-Softhouse própria — desenvolvimento de software personalizado para clientes,<br>
+<br>
+SEDLABS — desenvolvimento de software personalizado para clientes,<br>
 do MVP ao produto completo.
 
 <br>
