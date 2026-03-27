@@ -20,7 +20,7 @@ Desenvolvedor Full Stack com foco em TypeScript, React e Node.js. Construo aplic
 <div align="center">
 <br>
 
-<img src="docs/SedLabs.svg" margin-bottom="20" weight="100" height="120" alt="SEDLABS" />
+<img src="docs/iconlabs.svg" margin-bottom="20" weight="100" height="120" alt="SEDLABS" />
 
 <br>
 
