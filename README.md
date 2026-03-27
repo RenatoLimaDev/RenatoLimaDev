@@ -7,8 +7,7 @@
 Desenvolvemos até os problemas, imagine as soluções!
 </div>
 
-### Projetos em Destaque
-
+|  Projetos em Destaque |
 | App | Descrição | Stack |
 |:---:|---|---|
 | [![Facin](docs/Facin.svg)](https://github.com/RenatoLimaDev/Facin) | Converte arquivos `.docx`, `.odt`, `.md` e outros em XML para o Moodle — processamento 100% local, sem upload. 92% de cobertura de testes. | TS · React · Vite · Tailwind · Zustand · Vitest · Playwright |
